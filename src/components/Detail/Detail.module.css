@@ -1,0 +1,10 @@
+.detail{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: fit-content;
+    height: 400px;
+    flex: content;
+    flex-wrap: wrap;
+    background-color: aqua;
+    
+}

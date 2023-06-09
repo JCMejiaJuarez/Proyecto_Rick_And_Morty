@@ -1,0 +1,9 @@
+.container {
+    
+    display: flex;
+    flex-wrap: wrap;
+    flex: content;
+    flex-direction: column;
+    justify-content: space-between;
+    background-image: none;
+}
